@@ -57,9 +57,3 @@ OBlElement >> states [
 
 	^ nil
 ]
-
-{ #category : #accessing }
-OBlElement >> styles [
-
-	^ nil
-]
